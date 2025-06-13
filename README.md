@@ -28,13 +28,13 @@ Studying for:
 
 ---
 
-## 🧪 Projects in Progress
+## Projects
 
 | Project       | Description                                      | Status     |
 |--------------|--------------------------------------------------|------------|
-| `keylogger`  | Lightweight Windows keylogger for research use   | 🔧 In Dev   |
-| `homelab`    | Local cyber lab with AD, attacker box, and SIEM  | 🏗️ Building |
-| `port-scanner` | Fast TCP scanner with banner grabbing           | 🧪 Testing  |
+| `Python Keylogger`  | Lightweight Windows keylogger for research use   | [Finished](https://github.com/Isriix/Basic-Python-Keylogger)   |
+| `Security+ Notes`    | Studying for Exam  | [Building](https://github.com/Isriix/CompTIA-Security-Plus) |
+
 
 > 💡 Most tools are for **educational purposes only** and follow ethical guidelines.
 
@@ -65,19 +65,3 @@ I'm always open to connect, learn, or collaborate.
 
 > 🕶️ “Hack the mind before the machine.”
 
-
-
-<!--
-**Isriix/isriix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
