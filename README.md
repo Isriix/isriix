@@ -1,4 +1,4 @@
-# Isriix – Aspiring Red Teamer & Cybersecurity Enthusiast
+# Aspiring Cyber Security Professional
 
 Hey! I'm **Isriix**, a junior cybersecurity professional focused on offensive security, hands-on labs, and tooling. I'm currently sharpening my red team skills through personal projects and continuous learning.
 
