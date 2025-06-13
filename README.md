@@ -34,7 +34,7 @@ Studying for:
 |--------------|--------------------------------------------------|------------|
 | `Python Keylogger`  | Lightweight Windows keylogger for research use   | [Finished](https://github.com/Isriix/Basic-Python-Keylogger)   |
 | `Security+ Notes`    | Studying for Exam  | [Building](https://github.com/Isriix/CompTIA-Security-Plus) |
-
+| `Port Scanner`      | Basic Python-based port scanner using Nmap       | [Finished](https://github.com/Isriix/Basic-Python-Port-Scanner) |
 
 > 💡 Most tools are for **educational purposes only** and follow ethical guidelines.
 
