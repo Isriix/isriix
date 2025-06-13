@@ -59,7 +59,7 @@ I'm always open to connect, learn, or collaborate.
 
 ## 🧰 Tools & Tech
 
-`Python` • `PowerShell` • `Bash` • `Wireshark` • `Burp Suite` • `Metasploit` • `Nmap` • `VirtualBox` • `Proxmox` • `Kali Linux` • `Active Directory` • `CTF platforms`
+`Python` • `PowerShell` • `Bash` • `Wireshark` • `Burp Suite` • `Metasploit` • `Nmap` • `VirtualBox` • `Proxmox` • `Kali Linux` • `Active Directory` 
 
 ---
 
